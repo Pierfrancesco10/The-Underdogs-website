@@ -1,6 +1,6 @@
 import React from 'react';
 import { createRoot } from 'react-dom/client';
-import { Instagram, Music, Play, Mail, Youtube, ExternalLink, Zap } from 'lucide-react';
+import { Music, Play, Mail, ExternalLink, Zap } from "lucide-react";
 import './styles.css';
 
 const links = {
